@@ -28,16 +28,16 @@ Ton Tech is a frontend website that showcases courses, services, and testimonial
 ## Project Structure
 
 ```
-├── index.html
-├── style.css
-├── script.js
-├── PRICE LIST.pdf
-├── logo.png
-├── banner-img.JPG
-├── icon.jpg
-├── a.jpg - f.jpg        (course card images)
-├── face 1.JPG - face 6.JPG  (testimonial profile images)
-└── boot.png, css.png, html.png, java.png, word.png, power.png, excel.png  (partner logos)
+ index.html
+ style.css
+ script.js
+ PRICE LIST.pdf
+ logo.png
+ banner-img.JPG
+ icon.jpg
+ a.jpg - f.jpg        (course card images)
+ face 1.JPG - face 6.JPG  (testimonial profile images)
+ boot.png, css.png, html.png, java.png, word.png, power.png, excel.png  (partner logos)
 ```
 
 ## Getting Started
